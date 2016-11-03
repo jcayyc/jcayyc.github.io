@@ -1,13 +1,14 @@
-# Hexo Configuration
+﻿# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 靳春的博客
 subtitle:
-description:
-author: John Doe
-language:
+description: My Blog
+avatar: http://7xs4c2.com1.z0.glb.clouddn.com/head.gif
+author: 靳春
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
